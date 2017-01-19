@@ -1,0 +1,131 @@
+
+-----------------------INICIO CONTRATO-------------------------------------
+DATA: 11/12/2014 14:15:10
+Atendente: JULIANO ARAUJO
+Cliente: JULIANO  Contato: 9898989
+Engenheiro: BUCETA Contato: 12312
+Arquiteto: ERIC Contato: 93939
+Mestre de Obra: JULIANO Contato: 9999999
+Eletricista: PEDRO Contato: 31312
+Encanador: MARIO COSTA Contato: 292929
+Jardineiro: ERIVAN Contato: 12312
+DESCRIÇÃO DO SERVIÇODESCRICAO
+
+----------------------------FIM CONTRATO------------------------------
+-----------------------INICIO CONTRATO-------------------------------------
+Numero Contrato: 0DATA: 11/12/2014 14:23:17
+Atendente: JULIANO ARAUJO
+Cliente: JULIANO  Contato: 9898989
+Engenheiro: BUCETA Contato: 12312
+Arquiteto: ERIC Contato: 93939
+Mestre de Obra: JULIANO Contato: 9999999
+Eletricista: PEDRO Contato: 31312
+Encanador: MARIO COSTA Contato: 292929
+Jardineiro: ERIVAN Contato: 12312
+DESCRIÇÃO DO SERVIÇODESCRICAO
+
+----------------------------FIM CONTRATO------------------------------
+-----------------------INICIO CONTRATO-------------------------------------
+Numero Contrato: 0DATA: 11/12/2014 14:23:51
+Atendente: JULIANO ARAUJO
+Cliente: JULIANO  Contato: 9898989
+Engenheiro: BUCETA Contato: 12312
+Arquiteto: ERIC Contato: 93939
+Mestre de Obra: JULIANO Contato: 9999999
+Eletricista: PEDRO Contato: 31312
+Encanador: MARIO COSTA Contato: 292929
+Jardineiro: ERIVAN Contato: 12312
+DESCRIÇÃO DO SERVIÇODESCRICAO
+
+----------------------------FIM CONTRATO------------------------------
+-----------------------INICIO CONTRATO-------------------------------------
+Numero Contrato: 0DATA: 11/12/2014 14:24:50
+Atendente: JULIANO ARAUJO
+Cliente: JULIANO  Contato: 9898989
+Engenheiro: BUCETA Contato: 12312
+Arquiteto: ERIC Contato: 93939
+Mestre de Obra: JULIANO Contato: 9999999
+Eletricista: PEDRO Contato: 31312
+Encanador: MARIO COSTA Contato: 292929
+Jardineiro: ERIVAN Contato: 12312
+DESCRIÇÃO DO SERVIÇODESCRICAO
+
+----------------------------FIM CONTRATO------------------------------
+-----------------------INICIO CONTRATO-------------------------------------
+Numero Contrato: 0DATA: 11/12/2014 16:36:32
+Atendente: ISABELLE OLIVIA STEFANY CAVALCANTI
+Cliente: BETINA EMILY CARDOSO Contato: 2123244566
+Engenheiro: LUANA YASMIN BETINA MONTEIRO Contato: 9812746509
+Arquiteto: KAMILLY GIOVANNA ISADORA DA SILVA Contato: 8892345732
+Mestre de Obra: JOSÉ CARLOS SILVA Contato: 8181177654
+Eletricista: HUGO TOMÁS ANDRÉ NASCIMENTO Contato: 9283746509
+Encanador: PAULO CARLOS EDUARDO ROCHA Contato: 8864378291
+Jardineiro: MARCOS VINICIUS RICARDO PEDRO ALVES Contato: 9876352617
+DESCRIÇÃO DO SERVIÇOTeste
+
+----------------------------FIM CONTRATO------------------------------
+-----------------------INICIO CONTRATO-------------------------------------
+Numero Contrato: 0DATA: 11/12/2014 20:22:29
+Atendente: VITÓRIA MARCELA LIMA
+Cliente: BETINA EMILY CARDOSO Contato: 2123244566
+Engenheiro: LUANA YASMIN BETINA MONTEIRO Contato: 9812746509
+Arquiteto: LEVI DANIEL MARCOS VINICIUS ROCHA Contato: 9087619384
+Mestre de Obra: RAFAEL JOAQUIM CASTRO Contato: 9812643097
+Eletricista: THALES MATHEUS LUIZ COSTA Contato: 8188769012
+Encanador: PAULO CARLOS EDUARDO ROCHA Contato: 8864378291
+Jardineiro: BERNARDO RODRIGO THIAGO LIMA Contato: 8712635210
+DESCRIÇÃO DO SERVIÇODESCRICAO amaoaoisioaosia
+
+----------------------------FIM CONTRATO------------------------------
+-----------------------INICIO CONTRATO-------------------------------------
+Numero Contrato: 0DATA: 11/12/2014 20:27:11
+Atendente: ISABELLE OLIVIA STEFANY CAVALCANTI
+Cliente: CAUÊ GABRIEL BENÍCIO ALVES Contato: 8176545545
+Engenheiro: LUCCA PAULO IAN FERNANDES Contato: 2310398476
+Arquiteto: KAMILLY GIOVANNA ISADORA DA SILVA Contato: 8892345732
+Mestre de Obra: JOSÉ CARLOS SILVA Contato: 8181177654
+Eletricista: THALES MATHEUS LUIZ COSTA Contato: 8188769012
+Encanador: RYAN BENJAMIN PIETRO BARBOSA Contato: 9802816352
+Jardineiro: MARCOS VINICIUS RICARDO PEDRO ALVES Contato: 9876352617
+DESCRIÇÃO DO SERVIÇODESCRICAO oiasoiao
+
+----------------------------FIM CONTRATO------------------------------
+-----------------------INICIO CONTRATO-------------------------------------
+Numero Contrato: 4DATA: 11/12/2014 20:35:09
+Atendente: MARINA RAYSSA DÉBORA MOURA
+Cliente: BETINA EMILY CARDOSO Contato: 2123244566
+Engenheiro: LUANA YASMIN BETINA MONTEIRO Contato: 9812746509
+Arquiteto: LEVI DANIEL MARCOS VINICIUS ROCHA Contato: 9087619384
+Mestre de Obra: RAFAEL JOAQUIM CASTRO Contato: 9812643097
+Eletricista: HUGO TOMÁS ANDRÉ NASCIMENTO Contato: 9283746509
+Encanador: PAULO CARLOS EDUARDO ROCHA Contato: 8864378291
+Jardineiro: BERNARDO RODRIGO THIAGO LIMA Contato: 8712635210
+DESCRIÇÃO DO SERVIÇODESCRICAO
+
+----------------------------FIM CONTRATO------------------------------
+-----------------------INICIO CONTRATO-------------------------------------
+Numero Contrato: 5DATA: 11/12/2014 20:45:42
+Atendente: ISABELLE OLIVIA STEFANY CAVALCANTI
+Cliente: CAUÊ GABRIEL BENÍCIO ALVES Contato: 8176545545
+Engenheiro: LUCCA PAULO IAN FERNANDES Contato: 2310398476
+Arquiteto: KAMILLY GIOVANNA ISADORA DA SILVA Contato: 8892345732
+Mestre de Obra: JOSÉ CARLOS SILVA Contato: 8181177654
+Eletricista: THALES MATHEUS LUIZ COSTA Contato: 8188769012
+Encanador: RYAN BENJAMIN PIETRO BARBOSA Contato: 9802816352
+Jardineiro: MARCOS VINICIUS RICARDO PEDRO ALVES Contato: 9876352617
+DESCRIÇÃO DO SERVIÇODESCRICAO
+
+----------------------------FIM CONTRATO------------------------------
+-----------------------INICIO CONTRATO-------------------------------------
+Numero Contrato: 6DATA: 11/12/2014 21:51:17
+Atendente: RODRIGO LOPES
+Cliente: BETINA EMILY CARDOSO Contato: 2123244566
+Engenheiro: LUANA YASMIN BETINA MONTEIRO Contato: 9812746509
+Arquiteto: KAMILLY GIOVANNA ISADORA DA SILVA Contato: 8892345732
+Mestre de Obra: RAFAEL JOAQUIM CASTRO Contato: 9812643097
+Eletricista: HUGO TOMÁS ANDRÉ NASCIMENTO Contato: 9283746509
+Encanador: PAULO CARLOS EDUARDO ROCHA Contato: 8864378291
+Jardineiro: BERNARDO RODRIGO THIAGO LIMA Contato: 8712635210
+DESCRIÇÃO DO SERVIÇOjkoldçwç
+
+----------------------------FIM CONTRATO------------------------------
